@@ -16,3 +16,4 @@ The finalized documents include:
 - Jupyter Notebooks with the code for the project (scraping tweets from Twitter, topic modeling, and sentiment analysis)
 - A brief writeup
 - A short (5min) presentation of the project findings
+- A scattertext plot
